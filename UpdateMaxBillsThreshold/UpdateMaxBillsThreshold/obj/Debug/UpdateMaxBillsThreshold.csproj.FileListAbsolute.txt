@@ -1,0 +1,6 @@
+c:\users\jm185384\onedrive - ncr corporation\documents\visual studio 2015\Projects\UpdateMaxBillsThreshold\UpdateMaxBillsThreshold\bin\Debug\UpdateMaxBillsThreshold.exe.config
+c:\users\jm185384\onedrive - ncr corporation\documents\visual studio 2015\Projects\UpdateMaxBillsThreshold\UpdateMaxBillsThreshold\bin\Debug\UpdateMaxBillsThreshold.exe
+c:\users\jm185384\onedrive - ncr corporation\documents\visual studio 2015\Projects\UpdateMaxBillsThreshold\UpdateMaxBillsThreshold\bin\Debug\UpdateMaxBillsThreshold.pdb
+c:\users\jm185384\onedrive - ncr corporation\documents\visual studio 2015\Projects\UpdateMaxBillsThreshold\UpdateMaxBillsThreshold\obj\Debug\UpdateMaxBillsThreshold.csprojResolveAssemblyReference.cache
+c:\users\jm185384\onedrive - ncr corporation\documents\visual studio 2015\Projects\UpdateMaxBillsThreshold\UpdateMaxBillsThreshold\obj\Debug\UpdateMaxBillsThreshold.exe
+c:\users\jm185384\onedrive - ncr corporation\documents\visual studio 2015\Projects\UpdateMaxBillsThreshold\UpdateMaxBillsThreshold\obj\Debug\UpdateMaxBillsThreshold.pdb
