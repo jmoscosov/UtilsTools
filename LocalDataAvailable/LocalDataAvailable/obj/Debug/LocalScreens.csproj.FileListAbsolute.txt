@@ -1,0 +1,6 @@
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\bin\Debug\LocalScreens.exe.config
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\bin\Debug\LocalScreens.exe
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\bin\Debug\LocalScreens.pdb
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\obj\Debug\LocalScreens.csproj.CoreCompileInputs.cache
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\obj\Debug\LocalScreens.exe
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\obj\Debug\LocalScreens.pdb

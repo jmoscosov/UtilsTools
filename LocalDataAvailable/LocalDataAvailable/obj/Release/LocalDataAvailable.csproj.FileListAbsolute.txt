@@ -1,0 +1,6 @@
+C:\Software development\UtilsTools\LocalDataAvailable\FixM19\bin\Release\LocalDataAvailable.exe.config
+C:\Software development\UtilsTools\LocalDataAvailable\FixM19\bin\Release\LocalDataAvailable.exe
+C:\Software development\UtilsTools\LocalDataAvailable\FixM19\bin\Release\LocalDataAvailable.pdb
+C:\Software development\UtilsTools\LocalDataAvailable\FixM19\obj\Release\LocalDataAvailable.csproj.CoreCompileInputs.cache
+C:\Software development\UtilsTools\LocalDataAvailable\FixM19\obj\Release\LocalDataAvailable.exe
+C:\Software development\UtilsTools\LocalDataAvailable\FixM19\obj\Release\LocalDataAvailable.pdb
