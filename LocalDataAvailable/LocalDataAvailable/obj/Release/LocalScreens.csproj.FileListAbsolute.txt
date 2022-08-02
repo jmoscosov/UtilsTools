@@ -1,0 +1,13 @@
+C:\Software development\UtilsTools\LocalDataAvailable\FixM19\bin\Release\LocalScreens.exe.config
+C:\Software development\UtilsTools\LocalDataAvailable\FixM19\bin\Release\LocalScreens.exe
+C:\Software development\UtilsTools\LocalDataAvailable\FixM19\bin\Release\LocalScreens.pdb
+C:\Software development\UtilsTools\LocalDataAvailable\FixM19\obj\Release\LocalScreens.csproj.CoreCompileInputs.cache
+C:\Software development\UtilsTools\LocalDataAvailable\FixM19\obj\Release\LocalScreens.exe
+C:\Software development\UtilsTools\LocalDataAvailable\FixM19\obj\Release\LocalScreens.pdb
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\bin\Release\LocalScreens.exe.config
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\bin\Release\LocalScreens.exe
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\bin\Release\LocalScreens.pdb
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\obj\Release\LocalScreens.csproj.CoreCompileInputs.cache
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\obj\Release\LocalScreens.exe
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\obj\Release\LocalScreens.pdb
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\obj\Release\LocalScreens.csproj.AssemblyReference.cache
