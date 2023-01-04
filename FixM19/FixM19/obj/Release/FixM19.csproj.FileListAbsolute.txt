@@ -9,3 +9,4 @@ C:\Software development\UtilsTools\FixM19\FixM19\bin\Release\FixM19.pdb
 C:\Software development\UtilsTools\FixM19\FixM19\obj\Release\FixM19.csproj.CoreCompileInputs.cache
 C:\Software development\UtilsTools\FixM19\FixM19\obj\Release\FixM19.exe
 C:\Software development\UtilsTools\FixM19\FixM19\obj\Release\FixM19.pdb
+C:\Software development\UtilsTools\FixM19\FixM19\obj\Release\FixM19.csproj.AssemblyReference.cache
