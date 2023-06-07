@@ -10,3 +10,4 @@ C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\bin\Rel
 C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\obj\Release\LocalScreens.csproj.CoreCompileInputs.cache
 C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\obj\Release\LocalScreens.exe
 C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\obj\Release\LocalScreens.pdb
+C:\Software development\UtilsTools\LocalDataAvailable\LocalDataAvailable\obj\Release\LocalScreens.csproj.AssemblyReference.cache

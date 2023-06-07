@@ -1,0 +1,10 @@
+C:\Users\jm185384\source\repos\NDCBuffers\NDCBuffers\bin\Debug\NDCBuffers.exe
+C:\Users\jm185384\source\repos\NDCBuffers\NDCBuffers\bin\Debug\NDCBuffers.pdb
+C:\Users\jm185384\source\repos\NDCBuffers\NDCBuffers\obj\Debug\NDCBuffers.csproj.CoreCompileInputs.cache
+C:\Users\jm185384\source\repos\NDCBuffers\NDCBuffers\obj\Debug\NDCBuffers.exe
+C:\Users\jm185384\source\repos\NDCBuffers\NDCBuffers\obj\Debug\NDCBuffers.pdb
+C:\Users\jm185384\source\repos\NDCBuffers\NDCBuffers\bin\Debug\AANDC_CL.dll
+C:\Users\jm185384\source\repos\NDCBuffers\NDCBuffers\bin\Debug\AANDC_CL.pdb
+C:\Users\jm185384\source\repos\NDCBuffers\NDCBuffers\obj\Debug\NDCBuffers.csproj.AssemblyReference.cache
+C:\Users\jm185384\source\repos\NDCBuffers\NDCBuffers\obj\Debug\NDCBuffers.csproj.CopyComplete
+C:\Users\jm185384\source\repos\NDCBuffers\NDCBuffers\bin\Debug\NDCBuffers.exe.config

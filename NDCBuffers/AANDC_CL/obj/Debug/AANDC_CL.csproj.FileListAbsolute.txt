@@ -1,0 +1,8 @@
+C:\Users\jm185384\source\repos\NDCBuffers\AANDC_CL\obj\Debug\AANDC_CL.csproj.CoreCompileInputs.cache
+C:\Users\jm185384\source\repos\NDCBuffers\AANDC_CL\bin\Debug\AANDC_CL.dll
+C:\Users\jm185384\source\repos\NDCBuffers\AANDC_CL\bin\Debug\AANDC_CL.pdb
+C:\Users\jm185384\source\repos\NDCBuffers\AANDC_CL\bin\Debug\RGiesecke.DllExport.Metadata.dll
+C:\Users\jm185384\source\repos\NDCBuffers\AANDC_CL\obj\Debug\AANDC_CL.csproj.CopyComplete
+C:\Users\jm185384\source\repos\NDCBuffers\AANDC_CL\obj\Debug\AANDC_CL.dll
+C:\Users\jm185384\source\repos\NDCBuffers\AANDC_CL\obj\Debug\AANDC_CL.pdb
+C:\Users\jm185384\source\repos\NDCBuffers\AANDC_CL\obj\Debug\AANDC_CL.csproj.AssemblyReference.cache

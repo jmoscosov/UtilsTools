@@ -1,0 +1,9 @@
+C:\Users\jm185384\source\repos\NDCBuffers\Visual NDC Buffers\bin\Debug\Visual NDC Buffers.exe
+C:\Users\jm185384\source\repos\NDCBuffers\Visual NDC Buffers\bin\Debug\Visual NDC Buffers.pdb
+C:\Users\jm185384\source\repos\NDCBuffers\Visual NDC Buffers\obj\Debug\Visual_NDC_Buffers.Form1.resources
+C:\Users\jm185384\source\repos\NDCBuffers\Visual NDC Buffers\obj\Debug\Visual_NDC_Buffers.Properties.Resources.resources
+C:\Users\jm185384\source\repos\NDCBuffers\Visual NDC Buffers\obj\Debug\Visual NDC Buffers.csproj.GenerateResource.cache
+C:\Users\jm185384\source\repos\NDCBuffers\Visual NDC Buffers\obj\Debug\Visual NDC Buffers.csproj.CoreCompileInputs.cache
+C:\Users\jm185384\source\repos\NDCBuffers\Visual NDC Buffers\obj\Debug\Visual NDC Buffers.exe
+C:\Users\jm185384\source\repos\NDCBuffers\Visual NDC Buffers\obj\Debug\Visual NDC Buffers.pdb
+C:\Users\jm185384\source\repos\NDCBuffers\Visual NDC Buffers\obj\Debug\Visual NDC Buffers.csproj.AssemblyReference.cache

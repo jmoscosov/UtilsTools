@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FixM19")]
+[assembly: AssemblyTitle("FixRegistry")]
 [assembly: AssemblyDescription("NCR Utility")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("NCR Chile")]
-[assembly: AssemblyProduct("FixM19")]
-[assembly: AssemblyCopyright("Copyright ©  2022")]
+[assembly: AssemblyProduct("FixRegistry")]
+[assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

@@ -1,0 +1,10 @@
+C:\Users\SSTAdmin1\Documents\Visual Studio 2005\Projects\AddTextToFile\AddTextToFile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SSTAdmin1\Documents\Visual Studio 2005\Projects\AddTextToFile\AddTextToFile\bin\Debug\AddTextToFile.exe
+C:\Users\SSTAdmin1\Documents\Visual Studio 2005\Projects\AddTextToFile\AddTextToFile\bin\Debug\AddTextToFile.pdb
+C:\Users\SSTAdmin1\Documents\Visual Studio 2005\Projects\AddTextToFile\AddTextToFile\obj\Debug\AddTextToFile.exe
+C:\Users\SSTAdmin1\Documents\Visual Studio 2005\Projects\AddTextToFile\AddTextToFile\obj\Debug\AddTextToFile.pdb
+C:\AddTextToFileFramework20\AddTextToFile\AddTextToFile\obj\Debug\AddTextToFile.exe
+C:\AddTextToFileFramework20\AddTextToFile\AddTextToFile\obj\Debug\AddTextToFile.pdb
+C:\AddTextToFileFramework20\AddTextToFile\AddTextToFile\bin\Debug\AddTextToFile.exe
+C:\AddTextToFileFramework20\AddTextToFile\AddTextToFile\bin\Debug\AddTextToFile.pdb
+C:\AddTextToFileFramework20\AddTextToFile\AddTextToFile\obj\Debug\ResolveAssemblyReference.cache

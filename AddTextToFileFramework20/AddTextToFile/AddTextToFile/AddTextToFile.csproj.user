@@ -1,0 +1,5 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"3&#x1C;&#x1C;&#x1C;11&#x1C;820&#xC;&#x1B;[80m&#x1B;[27m&#xF;@@&#x1B;P2045&#x1B;\&#xF;@E&#xF;@E&#xF;@E&#xF;@E&#xF;@E&#xF;@E&#xF;@E&#xF;@E&#xF;@ECONFIRME MONTO INGRESADO&#x1B;(1&#xF;K4CONFIRMAR&#xF;L4MONTO&#xF;N4AGREGAR&#xF;O4BILLETES&#xF;NBCANCELAR&#xF;O;&#x3;" "C:\Program Files\NCR APTRA\Advance NDC\LOCAL" "NULL" "CF"</StartArguments>
+  </PropertyGroup>
+</Project>

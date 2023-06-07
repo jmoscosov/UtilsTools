@@ -1,0 +1,10 @@
+C:\Users\SSTAdmin1\Documents\Visual Studio 2005\Projects\LocalScreens\LocalScreens\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SSTAdmin1\Documents\Visual Studio 2005\Projects\LocalScreens\LocalScreens\bin\Debug\LocalScreens.exe
+C:\Users\SSTAdmin1\Documents\Visual Studio 2005\Projects\LocalScreens\LocalScreens\bin\Debug\LocalScreens.pdb
+C:\Users\SSTAdmin1\Documents\Visual Studio 2005\Projects\LocalScreens\LocalScreens\obj\Debug\LocalScreens.exe
+C:\Users\SSTAdmin1\Documents\Visual Studio 2005\Projects\LocalScreens\LocalScreens\obj\Debug\LocalScreens.pdb
+C:\LocalScreens\LocalScreens\obj\Debug\LocalScreens.exe
+C:\LocalScreens\LocalScreens\obj\Debug\LocalScreens.pdb
+C:\LocalScreens\LocalScreens\bin\Debug\LocalScreens.exe
+C:\LocalScreens\LocalScreens\bin\Debug\LocalScreens.pdb
+C:\LocalScreens\LocalScreens\obj\Debug\ResolveAssemblyReference.cache
